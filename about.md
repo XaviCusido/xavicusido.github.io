@@ -12,5 +12,4 @@ Tengo la suerte de deicarme a la tecnolog√≠a, que realmente me apasiona y tambi√
 
 Dispongo de dos certificaciones oficiales:
 
-- AZ-900: Microsoft Certified: Azure Fundamentals
-- Paessler Certified Monitoring Expert 2022
+- AZ-900: Microsoft Certified: Azure Fundamentals       - Paessler Certified Monitoring Expert 2022
