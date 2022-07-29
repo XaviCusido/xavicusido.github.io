@@ -18,4 +18,4 @@ Dispongo de dos certificaciones oficiales:
 
 - Paessler Certified Monitoring Expert 2022
 
-<img src="assets/image/badge_certified-monitoring-expert-2022.png" width="200" height="200">
+<img src="assets/image/badge_certified-monitoring-expert-2022.png" width="200" height="500">
