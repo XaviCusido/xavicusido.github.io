@@ -4,6 +4,13 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+¡HOLA! 
+
+Soy Xavi, trabajo como SysOps en Encora, una consultoría especializada en servicios de IT. Actualmente, desempeño mis funciones en el departamente de Infraestrucutra, dando soporte a los clientes en temas de virtualización, almacenamiento, backup y gestión del CPD.
+
+Tengo la suerte de deicarme a la tecnología, que realmente me apasiona y también me gusta mucho la ciencia y la nautraleza.
+
+Dispongo de dos certificaciones oficiales:
+
+- AZ-900: Microsoft Certified: Azure Fundamentals
+- Paessler Certified Monitoring Expert 2022
