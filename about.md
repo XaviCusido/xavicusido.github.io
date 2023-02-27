@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-¡HOLA! 
+¡Bienvenidos! 
 
 Soy Xavi, trabajo como SysOps en Encora, una consultoría especializada en servicios de IT. 
 
