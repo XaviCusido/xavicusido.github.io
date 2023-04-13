@@ -12,7 +12,7 @@ Hoy inicio este proyecto personal, presentar mi blog y no puedo estar más ilusi
 
 Creo que todos los que nos paseamos de blog en blog buscando solventar incidencias, leer sobre nuevas funcionalidades o entender conceptos complejos para mejorar, estaremos de acuerdo en que la comunidad IT es realmente impresionante y llena de grandes profesionales que desean compartir su experiencia. Todo esto me ha llevado a querer ser uno más y aportar mi granito de arena, con el fin de compartir y mejorar día a día.
 
-Como diría mi amigo y compañero @MiquelMariano: "la mejor forma de aprender algo, es intentar explicarlo" ¡Así que allá vamos!
+Como diría mi amigo y compañero [@MiquelMariano](https://miquelmariano.github.io/): "la mejor forma de aprender algo, es intentar explicarlo" ¡Así que allá vamos!
 
 Referente al contenido, podría deciros una larga lista de temas que me interesan, por lo tanto, dejaré que el blog se vaya moldeando en función de lo que encuentre interesante, por ejemplo, virtualización, automatización, cloud y en general, tecnologías relacionadas con el mundo DevOps.
 
