@@ -14,6 +14,8 @@ Creo que todos los que nos paseamos de blog en blog buscando solventar incidenci
 
 Como diría mi amigo y compañero [@MiquelMariano](https://miquelmariano.github.io/): "la mejor forma de aprender algo, es intentar explicarlo" ¡Así que allá vamos!
 
+<img src="assets/image/metal-gear-otacon.gif" width="200" height="200">
+
 Referente al contenido, podría deciros una larga lista de temas que me interesan, por lo tanto, dejaré que el blog se vaya moldeando en función de lo que encuentre interesante, por ejemplo, virtualización, automatización, cloud y en general, tecnologías relacionadas con el mundo DevOps.
 
 ¡Esto es todo amig@s, un fuerte abrazo y nos vemos por el blog!
