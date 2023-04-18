@@ -18,8 +18,6 @@ Referente al contenido, podría deciros una larga lista de temas que me interesa
 
 ¡Esto es todo amig@s, un fuerte abrazo y nos vemos por el blog!
 
-![](https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif)
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+<img src="https://media.tenor.com/pJQYpQUVfvgAAAAd/metal-gear-otacon.gif">
 
 --Xavi
