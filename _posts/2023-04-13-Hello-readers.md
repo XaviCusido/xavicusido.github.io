@@ -20,6 +20,8 @@ Referente al contenido, podría deciros una larga lista de temas que me interesa
 
 ![](https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif)
 
-<img src="https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif" /> 
+<img src="https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif" />
+
+[![image_title](https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif)]([image_link](https://github.com/XaviCusido/xavicusido.github.io/blob/main/assets/image/metal-gear-otacon.gif)){:.glightbox}
 
 --Xavi
