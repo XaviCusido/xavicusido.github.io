@@ -4,11 +4,11 @@ title: About
 permalink: /about
 ---
 
-¡Bienvenidos! 
+¡Hola! 
 
 Soy Xavi, trabajo como SysOps en Encora, una consultoría especializada en servicios de IT. 
 
-Actualmente, desempeño mis funciones en el departamente de Infraestrucutra, dando soporte a los clientes en temas de virtualización, almacenamiento, backup y gestión del CPD.
+Actualmente, desempeño mis funciones en el departamente de Infraestructura, dando soporte a los clientes en temas de virtualización, almacenamiento, backup y gestión del CPD, pero ambién tengo un pie metido en el entorno Cloud.
 
 Dispongo de dos certificaciones oficiales:
 
