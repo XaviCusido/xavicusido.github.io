@@ -6,7 +6,7 @@ permalink: /about
 
 ¡Hola! 
 
-Soy Xavi, trabajo como SysOps en Encora, una consultoría especializada en servicios de IT. 
+Soy Xavi, trabajo como DevOps en una consultoría especializada en servicios de IT. 
 
 Actualmente, desempeño mis funciones en el departamento de Infraestructura, dando soporte a los clientes en temas de virtualización, almacenamiento, backup y gestión del CPD, pero también tengo un pie metido en el entorno Cloud.
 
