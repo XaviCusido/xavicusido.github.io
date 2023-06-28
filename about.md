@@ -23,3 +23,5 @@ Dispongo de dos certificaciones oficiales:
 <p align="center">
 <img src="assets/image/badge_certified-monitoring-expert-2022.png" width="300" height="200">
 </p>
+
+Os dejo por aquí mi perfil de LinkdIn para que podáis echar un vistazo a todo mi recorrido: [@XavierCusidó](https://www.linkedin.com/in/xavier-cusid%C3%B3-g%C3%B3mez-92829a130//)
