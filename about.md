@@ -4,11 +4,9 @@ title: About
 permalink: /about
 ---
 
-¡Hola! 
+¡Bienvenidos! 
 
-Soy Xavi, trabajo como DevOps en una consultoría especializada en servicios de IT. 
-
-Actualmente, desempeño mis funciones en el departamento de Infraestructura, dando soporte a los clientes en temas de virtualización, almacenamiento, backup y gestión del CPD, pero también tengo un pie metido en el entorno Cloud.
+Soy Xavi, trabajo como DevOps para una gran empresa del sector IT. 
 
 Dispongo de dos certificaciones oficiales:
 
