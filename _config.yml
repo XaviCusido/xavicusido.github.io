@@ -42,7 +42,7 @@ navigation_links:
 # Footer icons
 #footer_links:
 #  - title: Feed
-#   url: feed.xml
+#    url: feed.xml
 #    icon: fa fa-rss-square
 
   - title: Twitter
