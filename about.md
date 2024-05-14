@@ -12,7 +12,7 @@ Dispongo de dos certificaciones oficiales:
 
 - AZ-900: Microsoft Certified: Azure Fundamentals 
 
-<p align="center">
+<p align="left">
 <img src="assets/image/az900.png" width="200" height="200">
 </p>
 
