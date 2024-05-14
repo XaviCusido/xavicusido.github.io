@@ -12,6 +12,7 @@ Dispongo de dos certificaciones oficiales:
 
 |||
 |---|---|
+|AZ-900: Microsoft Certified: Azure Fundamentals|---|
 | <img src="assets/image/az900.png" width="200" height="200"> | <img src="assets/image/badge_certified-monitoring-expert-2022.png" width="300" height="200"> |
 
 - AZ-900: Microsoft Certified: Azure Fundamentals | - Paessler Certified Monitoring Expert 2022
