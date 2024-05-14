@@ -6,10 +6,6 @@ permalink: /about
 
 ¡Bienvenidos! 
 
-Soy Xavi, trabajo como DevOps para una gran empresa del sector IT. 
-
-Dispongo de dos certificaciones oficiales:
-
 |||
 |---|---|
 |AZ-900: Microsoft Certified: Azure Fundamentals|Paessler Certified Monitoring Expert 2022|
