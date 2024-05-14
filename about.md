@@ -10,7 +10,7 @@ Soy Xavi, trabajo como DevOps para una gran empresa del sector IT.
 
 Dispongo de dos certificaciones oficiales:
 
-||||
+|||
 |---|---|
 | <img src="assets/image/az900.png" width="200" height="200"> | <img src="assets/image/badge_certified-monitoring-expert-2022.png" width="300" height="200"> |
 
